@@ -93,9 +93,10 @@ footer {
     font-size: 13px;
     margin: 20px;
 }
-
+/*CSS da página de contato*/
 form {
     margin: 40px 0;
+    padding-left: 20px;
 }
 
 form label, form legend {
@@ -135,6 +136,7 @@ form label, form legend {
 
 table {
     margin: 20px 0 40px;
+    margin-left: 20px;
 }
 
 thead {
@@ -261,7 +263,7 @@ td, th {
 }
 
 @media screen and (max-width:480px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width:auto;
     }
 
@@ -275,5 +277,11 @@ td, th {
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
+        
+    }
+
+    .produtos, .produtos li {
+        width: 90%;
+        margin: 1em;
     }
 }
