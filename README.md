@@ -24,3 +24,6 @@ Após baixar o projeto, você pode abri-lo localizando na pasta o arquivo index.
 
 [<img src="https://user-images.githubusercontent.com/105133847/215238362-763c8d76-55d2-4fd0-8b5f-f7080fbc4114.jpg" width=115><br><sub>Jurandi Junior</sub>](https://github.com/jurandi1)
 
+##
+
+![Badge license](https://img.shields.io/github/license/jurandi1/barbearia_alura)
