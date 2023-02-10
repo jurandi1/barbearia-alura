@@ -1,6 +1,6 @@
 <h1 align="center"> Barbearia Alura </h1>
 
-![pagina inicial](https://user-images.githubusercontent.com/105133847/215235354-94e528b0-8a0a-4482-87e7-494e8772155b.png)
+![pagina inicial](https://user-images.githubusercontent.com/105133847/215235354-94e528b0-8a0a-4482-87e7-494e8772155b.png#vitrinedev)
 
 <h2>Introdução</h2>
 
